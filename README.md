@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Arshman 👋
 
-<!--
-**rtxbreadman65-droid/rtxbreadman65-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a guy who likes building things close to the metal. Mostly knee-deep in low-level code, writing operating systems from scratch, and tinkering with hardware.
 
-Here are some ideas to get you started:
+- ⚙️ **Daily Driver:** Arch Linux + Neovim (pure black terminal, obviously 🖤)
+- 🛠️ **Languages:** Rust, x86_64 Assembly, Python, C
+- 🧠 **Current Focus:** OS dev, embedded systems, and raw networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I Play With
+- **Systems & OS Dev:** Custom bootloaders, GDT/IDT, framebuffers, and kernel modules.
+- **Embedded & IoT:** ESP32 boards, GPIO pins, UART registers, and sensors.
+- **Networking & Scripting:** Raw sockets, packet crafting, and custom Python scripts.
+
+---
+
+### 📊 GitHub Stats
+![Arshman's Stats](https://github-readme-stats.vercel.app/api?username=rtxbreadman65-droid&show_icons=true&theme=radical&bg_color=000000&hide_border=true)
