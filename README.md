@@ -2,9 +2,8 @@
 
 Just a guy who likes building things close to the metal. Mostly knee-deep in low-level code, writing operating systems from scratch, and tinkering with hardware.
 
-- ⚙️ **Daily Driver:** Arch Linux + Neovim (pure black terminal, obviously 🖤)
-- 🛠️ **Languages:** Rust, x86_64 Assembly, Python, C
-- 🧠 **Current Focus:** OS dev, embedded systems, and raw networking
+- 🛠️ **Languages:** Rust, x86_64 Assembly, Python
+- 🧠 **Current Focus:** OS dev, embedded system 
 
 ---
 
